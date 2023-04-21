@@ -9,7 +9,7 @@
         },
         "AUUID": {
             "description": "UUID的网站: https://www.uuidgenerator.net",
-            "value": "2ee7217b-95fb-3r8d-930a-c4254209bcdd"
+            "value": "b9524625-bbb6-46c7-8dd9-a91140491f86"
         },
         "CADDYIndexPage": {
             "description": "自定义参考",
@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Bodrunn/refahtee/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/Bodrunn/refahtee/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/你的用户名/项目地址/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Bodrunn/refahtee/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/你的用户名/项目地址",
-    "repository": "https://github.com/你的用户名/项目地址",
+    "website": "https://github.com/Bodrunn/refahtee",
+    "repository": "https://github.com/Bodrunn/refahtee",
     "stack": "container"
 }
